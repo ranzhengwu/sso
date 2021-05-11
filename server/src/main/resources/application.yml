@@ -7,4 +7,4 @@ spring:
     prefix: classpath:/templates/  #前缀
     cache: false  #是否使用缓存
 #    mode: HTML  #严格的HTML语法模式
-    suffix: .html  #后缀名
+    suffix: .html  #后缀名;
