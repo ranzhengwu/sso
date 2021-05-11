@@ -11,5 +11,6 @@ public class SSOServerApp {
     public static void main(String[] args) {
         //
         SpringApplication.run(SSOServerApp.class,args);;
+        //第一次更新
     }
 }
